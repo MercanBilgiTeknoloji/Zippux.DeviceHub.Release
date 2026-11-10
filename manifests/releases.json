@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "minSupportedVersion": "1.0.0",
-    "publishedAt": "2026-11-10T07:14:01Z",
+    "publishedAt": "2026-11-10T07:40:11Z",
     "windows": {
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.1.0/DeviceHub-setup-2.1.0.exe",
-      "sha256": "b5e1c5f00e5078061232b66be45d7651dcf05ab7700ac38d803f4b349fa8f291",
-      "size": 46082487
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.1.1/DeviceHub-setup-2.1.1.exe",
+      "sha256": "eb4dfafbce4c4a10496adfc85f19e3ae1156e393b06cc56a0de1e76a40eb9eb4",
+      "size": 46084893
     },
     "ecr": {
       "version": "1.0.0",

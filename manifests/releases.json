@@ -32,13 +32,13 @@
     "releaseNotes": "DeviceHub Windows kurulum paketi."
   },
   "latestRc": {
-    "version": "2.5.0-rc.1",
+    "version": "2.5.0-rc.2",
     "minSupportedVersion": "1.0.0",
-    "publishedAt": "2026-11-11T10:30:05Z",
+    "publishedAt": "2026-11-11T12:36:43Z",
     "windows": {
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.5.0-rc.1/DeviceHub-setup-2.5.0-rc.1.exe",
-      "sha256": "f4826cead3891ebc742f51df45de5cf99a8928b705a3c6ee3225c0de723c97bf",
-      "size": 46113226
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.5.0-rc.2/DeviceHub-setup-2.5.0-rc.2.exe",
+      "sha256": "0c9f1ed82c046dd1b027cef472c29995f2f4a7ee001b8fef51a8494391827b20",
+      "size": 46114688
     },
     "ecr": {
       "version": "1.0.0",

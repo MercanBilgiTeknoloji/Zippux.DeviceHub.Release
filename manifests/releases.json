@@ -1,12 +1,12 @@
 {
   "latest": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "minSupportedVersion": "1.0.0",
-    "publishedAt": "2026-11-11T09:09:20Z",
+    "publishedAt": "2026-11-11T13:07:07Z",
     "windows": {
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.4.0/DeviceHub-setup-2.4.0.exe",
-      "sha256": "9c6b0692c9522ac9d67efeaf06a3727fb65fb5b5a678a90a46b033de4fc2e431",
-      "size": 46092582
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.5.0/DeviceHub-setup-2.5.0.exe",
+      "sha256": "43056bc7fddcfa40bcd7071546a6dc26d6054b5ab23d3e074b3749d3be5baef1",
+      "size": 46114430
     },
     "ecr": {
       "version": "1.0.0",
@@ -16,13 +16,13 @@
     "releaseNotes": "DeviceHub Windows kurulum paketi."
   },
   "latestMinor": {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "minSupportedVersion": "1.0.0",
-    "publishedAt": "2026-11-11T09:09:20Z",
+    "publishedAt": "2026-11-11T13:07:07Z",
     "windows": {
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.4.0/DeviceHub-setup-2.4.0.exe",
-      "sha256": "9c6b0692c9522ac9d67efeaf06a3727fb65fb5b5a678a90a46b033de4fc2e431",
-      "size": 46092582
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.5.0/DeviceHub-setup-2.5.0.exe",
+      "sha256": "43056bc7fddcfa40bcd7071546a6dc26d6054b5ab23d3e074b3749d3be5baef1",
+      "size": 46114430
     },
     "ecr": {
       "version": "1.0.0",
@@ -31,20 +31,5 @@
     },
     "releaseNotes": "DeviceHub Windows kurulum paketi."
   },
-  "latestRc": {
-    "version": "2.5.0-rc.2",
-    "minSupportedVersion": "1.0.0",
-    "publishedAt": "2026-11-11T12:36:43Z",
-    "windows": {
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.5.0-rc.2/DeviceHub-setup-2.5.0-rc.2.exe",
-      "sha256": "0c9f1ed82c046dd1b027cef472c29995f2f4a7ee001b8fef51a8494391827b20",
-      "size": 46114688
-    },
-    "ecr": {
-      "version": "1.0.0",
-      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.EcrManager.Release/releases/download/v1.0.0/ecr-app-1.0.0.zip",
-      "sha256": "2575ca4ade033bad6b3f5af8a2ac249a7db33fce3b8ae94420dad142384e2bf4"
-    },
-    "releaseNotes": "DeviceHub Windows kurulum paketi."
-  }
+  "latestRc": null
 }

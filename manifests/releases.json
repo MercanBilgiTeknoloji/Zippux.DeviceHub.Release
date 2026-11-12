@@ -31,5 +31,20 @@
     },
     "releaseNotes": "DeviceHub Windows kurulum paketi."
   },
-  "latestRc": null
+  "latestRc": {
+    "version": "2.6.0-rc.1",
+    "minSupportedVersion": "1.0.0",
+    "publishedAt": "2026-11-12T08:13:19Z",
+    "windows": {
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.DeviceHub.Release/releases/download/v2.6.0-rc.1/DeviceHub-setup-2.6.0-rc.1.exe",
+      "sha256": "ab8c5ca5c9f6802c5c73860e1a118159b0cb6306b2cfe41df1dbcc3ae535bd26",
+      "size": 46114324
+    },
+    "ecr": {
+      "version": "1.0.0",
+      "url": "https://github.com/MercanBilgiTeknoloji/Zippux.EcrManager.Release/releases/download/v1.0.0/ecr-app-1.0.0.zip",
+      "sha256": "2575ca4ade033bad6b3f5af8a2ac249a7db33fce3b8ae94420dad142384e2bf4"
+    },
+    "releaseNotes": "DeviceHub Windows kurulum paketi."
+  }
 }
